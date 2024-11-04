@@ -1,0 +1,101 @@
+body{
+    background-color: #c199c6;
+}
+
+
+
+.carousel-inner{
+    height: 500px;
+    margin-top: 6%;
+}
+
+.textbody{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #7b0b52;
+            text-align: center;
+        }
+        p {
+            color: #7b0b52;
+            font-size: 16px;
+            line-height: 1.6;
+            text-align: justify;
+            margin: 0 0 20px 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .textoCC h3{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #f3c9e3;
+            text-align: center;
+        }
+
+        #form{
+            padding-left: 10%;
+        }
+        
+        .formulario{ 
+            width: 460px; 
+          height: auto;
+          margin: 80px auto;
+            border-radius: 10px;  
+            padding-top: 30px;
+            padding-bottom: 20px;  
+          background-color: #852678; 
+          padding-left: 40px;
+        }
+        
+        input{
+            background-color: #fbfbfb; 
+            width: 408px; 
+            height: 40px; 
+            border-radius: 5px;  
+            border-style: solid; 
+            border-width: 1px; 
+            border-color: #110e10; 
+            margin-top: 10px;  
+            padding-left: 100px;
+          margin-bottom: 20px; 
+        }
+        
+        textarea{
+            background-color: #fbfbfb; 
+              width: 405px; 
+              height: 150px; 
+              border-radius: 5px;  
+              border-style: solid; 
+              border-width: 1px; 
+              border-color: #110e10; 
+              margin-top: 10px;  
+              padding-left: 10px;
+            margin-bottom: 20px; 
+            padding-top: 15px; 
+          }
+          
+          label{
+            display: block; 
+              float: center; 	
+          }
+        
+          button{
+            height: 45px; 
+            padding-left: 5px;
+            padding-right: 3px; 	
+            margin-bottom: 10px; 
+            margin-top: 1px; 	
+            text-transform: uppercase;
+            background-color: #ad599b; 
+            border-color: #e2bace; 
+            border-style: solid; 
+            border-radius: 10px;	
+            width: 100px;   
+          cursor: pointer;
+        }
